@@ -1,0 +1,7 @@
+Part 8: Acknowledgements
+
+I completed this assignment independently and did not collaborate with others.
+
+No additional libraries beyond those covered in the module were used.
+
+I did not use any generative AI tool
